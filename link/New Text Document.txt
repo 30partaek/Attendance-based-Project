@@ -1,0 +1,5 @@
+https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+
+
+https://pythongeeks.org/face-detection-and-recognition-using-opencv/
+https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348

@@ -1,0 +1,21 @@
+CREATE TABLE face_recognizer.student(
+    dpet varchar(45),
+    course varchar(45),
+    year varchar(45),
+    Semester varchar(45),
+    Student_id int,
+    Name varchar(45),
+    Division varchar(45),
+    Roll varchar(45),
+    Gender varchar(45),
+    Dob varchar(45),
+    Email varchar(45);
+    Phone varchar(45),
+    Address varchar(45),
+    Teachar varchar(45),
+    PhotoSample varchar(45),
+    PRIMARY KEY (Student_id)
+);
+
+
+
